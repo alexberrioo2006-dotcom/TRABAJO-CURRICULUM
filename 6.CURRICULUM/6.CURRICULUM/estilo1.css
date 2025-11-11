@@ -1,0 +1,20 @@
+h1 {color: blue; background-color: yellow; font-family: 'Times New Roman', Times, serif;
+    font-weight: bold; font-size: 3em; text-align: center;}
+p {font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 12px;
+    text-align: justify; color: navy;}
+body {background-color: powderblue;}
+h2 {background-color: black; color: white; 
+    font-family: Arial, Helvetica, sans-serif; font-size: 15px}
+h3 {color: blue; background-color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;}
+table,th,td {border: 2px dotted blue;background-color: lightblue; width: 900px;}
+a {text-decoration: none;}
+a:link {color: purple; font-size: 2em;}
+a:visited {color: grey;}
+a:hover {color: red; font-size: 20pt; font-family: Arial, Helvetica, sans-serif;
+         background-color: yellow;}
+a:active {color: green;font-weight: bold;}
+.importante {background-color: red;color: yellow;}
+.titulo-grande {font-weight: bold;font-size: 18px ;font-family: cursive;
+                color: green; text-align: center; }
+#retrato {width: 200px; height: 300px; border: 2px solid blue;}
